@@ -1,9 +1,11 @@
-# Labirinto Game
+![di-devlin-maincraft](https://user-images.githubusercontent.com/62312787/185287478-1eeb20f3-c16b-4bb8-82fd-44822f80fb49.jpg)
+
 
 ![Union](https://user-images.githubusercontent.com/62312787/185272191-fd7a68de-3668-408b-94f2-d57fef128bfa.png)
 
 
-<h2>Um protótipo desenvolvido através do Figma utilizando Automatos Finitos para o trabalho de Teoria da Computação.</h2>
+
+<h2 align="center">Um protótipo desenvolvido através do Figma utilizando Automatos Finitos para o trabalho de Teoria da Computação.</h2>
 
 # Implementação
 
