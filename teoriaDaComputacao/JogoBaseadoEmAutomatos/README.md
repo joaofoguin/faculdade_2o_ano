@@ -7,7 +7,7 @@
 
 # Implementação
 
-O jogo é baseado em cliques, ou seja, é possível joga-lo apenas com o mouse. Foi construído com imagens retiradas do jogo Minecraft da Majong, onde um labirinto foi contruído baseando-se no mapa a seguir. Além de edições produzidas em Photoshop, o protótipo foi montado no software web Figma para desktop.
+O jogo é baseado em cliques, ou seja, é possível joga-lo apenas com o mouse. Foi construído com imagens retiradas do jogo Minecraft da Majong, onde um labirinto foi contruído baseado no mapa a seguir. Além de edições produzidas em Photoshop, o protótipo foi montado no software web Figma para desktop.
 
 ![WhatsApp Image 2022-08-17 at 11 33 00](https://user-images.githubusercontent.com/62312787/185281389-9b2526d0-a745-481e-84e4-65c764e5a99d.jpeg)
 
