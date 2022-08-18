@@ -21,11 +21,13 @@ No primeiro link abaixo, você pode acessar contrução do projeto com as fotos,
 
 # Funcionamento
 
-Na tela inicial é apresentado a capa do jogo, dispondo o nome "LABIRINTO GAME" e o botão "JOGAR". Em seguida, apresenta uma pequena apresentação explicativa do jogo. Assim que é iniciado, o protótipo mostra uma tela com o primeiro frame. Cada frame possui comandos no lado inferior da tela, dentre eles: "ESQUERDA", "SEGUIR", "VOLTAR", "DIREITA" e "ABRIR". De acordo com cada cenário, indicadores acima das palavras mostram quais comandos estão disponíveis para a movimentação do jogador. Se em um cenário, não houver bifurcações ou interações de "ABRIR', os comandos "SEGUIR" e "VOLTAR" Como nos exemplos abaixo:
+Na tela inicial é apresentado a capa do jogo, dispondo o nome "LABIRINTO GAME" e o botão "JOGAR". Em seguida, apresenta uma pequena apresentação explicativa do jogo. Assim que é iniciado, o protótipo mostra uma tela com o primeiro frame. Cada frame possui comandos no lado inferior da tela, dentre eles: "ESQUERDA", "SEGUIR", "VOLTAR", "DIREITA" e "ABRIR". De acordo com cada cenário, indicadores acima das palavras mostram quais comandos estão disponíveis para a movimentação do jogador. Se em um cenário, não houver bifurcações ou interações de "ABRIR', os comandos "SEGUIR" e "VOLTAR" apenas funcionarão. Assim como, quando em uma bifurcação, os comandos "ESQUERDA", "DIREITA" e "VOLTAR" executarão. Quando houver uma interação, o indicador estará disposto em cima do comando "ABRIR". Pode-se verificar os casos nos exemplos abaixo:
 
 ![MacBook Pro 14_ - 10](https://user-images.githubusercontent.com/62312787/185281611-58bdca87-4586-40b2-866c-0a48010e6e4d.png)
 
 ![MacBook Pro 14_ - 14](https://user-images.githubusercontent.com/62312787/185281615-f52bd20e-c5c1-41d3-b3b8-1a2afcaa356a.png)
+
+![MacBook Pro 14_ - 19](https://user-images.githubusercontent.com/62312787/185285874-d8e8c6a9-b5e3-43ff-85f5-966f57bac3a0.png)
 
 O objetivo do jogo é sair de um labirinto, e para isso é necessário, primeiramente, encontrar uma chave que abrirá a porta de saída dele.
 
