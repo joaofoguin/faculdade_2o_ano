@@ -21,7 +21,7 @@ No primeiro link abaixo, você pode acessar contrução do projeto com as fotos,
 
 # Funcionamento
 
-Na tela inicial é apresentado a capa do jogo, dispondo o nome "LABIRINTO GAME" e o botão "JOGAR". Em seguida, apresenta uma pequena apresentação explicativa do jogo. Assim que é iniciado, o protótipo mostra uma tela com o primeiro frame. Cada frame possui comandos no lado inferior da tela, dentre eles: "ESQUERDA", "SEGUIR", "VOLTAR", "DIREITA" e "ABRIR". bDe acordo com cada cenário, indicadores acima das palavras mostram quais comandos estão disponíveis para a movimentação do jogador. Se em um cenário, não houver bifurcações ou interações de "ABRIR', os comandos "SEGUIR" e "VOLTAR" Como nos exemplos abaixo:
+Na tela inicial é apresentado a capa do jogo, dispondo o nome "LABIRINTO GAME" e o botão "JOGAR". Em seguida, apresenta uma pequena apresentação explicativa do jogo. Assim que é iniciado, o protótipo mostra uma tela com o primeiro frame. Cada frame possui comandos no lado inferior da tela, dentre eles: "ESQUERDA", "SEGUIR", "VOLTAR", "DIREITA" e "ABRIR". De acordo com cada cenário, indicadores acima das palavras mostram quais comandos estão disponíveis para a movimentação do jogador. Se em um cenário, não houver bifurcações ou interações de "ABRIR', os comandos "SEGUIR" e "VOLTAR" Como nos exemplos abaixo:
 
 ![MacBook Pro 14_ - 10](https://user-images.githubusercontent.com/62312787/185281611-58bdca87-4586-40b2-866c-0a48010e6e4d.png)
 
