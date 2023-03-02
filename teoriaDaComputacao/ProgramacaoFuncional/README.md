@@ -6,12 +6,13 @@ Nesse codigo foi utilizado programação funcional em JS. Em um programa de comp
 ## Instalação e uso
 
 ```bash
+$ Necessita NodeJS instalado
 $ git clone
-$ cd somador-quadrado-numeros-impares
+$ cd ProgramacaoFuncional
 ```
 
-## Botando pra funcionar
+## Funcionando
 
 ```bash
-$ node somarQuadrImpares 1 2 3 4 5
+$ node calcularTempoPlaylist
 ```
