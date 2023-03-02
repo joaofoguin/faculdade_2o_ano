@@ -1,0 +1,4 @@
+ A;ABx
+ A;AABBx
+ A;AAABBBx
+ R;ABbb
